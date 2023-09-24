@@ -1,0 +1,3 @@
+/* -----------------for pie------------------- */
+#content>ul>li>div>div{position: relative; behavior: url(js/PIE.htc); }
+#splashMenu>li>em, .closeBtn>strong{position: absolute; behavior: url(js/PIE.htc); }
